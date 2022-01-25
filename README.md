@@ -3,7 +3,7 @@ I'm a Native Android Developer who build Android apps using Kotlin programming l
 
 - 📫 You can reach me on: https://www.linkedin.com/in/al-hussein96/
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-Hussein-96&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-Hussein-96&hide=javascript,html&show_icons=true&theme=tokyonight)
 ![Mohammad's github stats](https://github-readme-stats.vercel.app/api?username=Al-Hussein-96&show_icons=true&theme=tokyonight)
 <!--
 **Al-Hussein-96/Al-Hussein-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
