@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Mohammad Al-Hussein
+I'm a Native Android Developer who build Android apps using Kotlin programming language and Java programming language, using Modern Android development with the most power and recent techniques like (coroutines , flow, hilt, live data, navigation, work manager, data store, ktor, retrofit,RxJava etc...) and I'm using Solid principles, design pattern, clean-architecture and clean code to make robust code.
 
+- 📫 You can reach me on: https://www.linkedin.com/in/al-hussein96/
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-Hussein-96&show_icons=true&theme=tokyonight)
+![Mohammad's github stats](https://github-readme-stats.vercel.app/api?username=anastr&show_icons=true&theme=tokyonight)
 <!--
 **Al-Hussein-96/Al-Hussein-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
