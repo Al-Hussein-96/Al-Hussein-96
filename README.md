@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Mohammad Al-Hussein
-I'm a Native Android Developer who build Android apps using Kotlin programming language and Java programming language, using Modern Android development with the most power and recent techniques like (coroutines , flow, hilt, live data, navigation, work manager, data store, ktor, retrofit,RxJava etc...) and I'm using Solid principles, design pattern, clean-architecture and clean code to make robust code.
+I'm a Native Android Developer who build Android apps using Kotlin programming language and Java programming language, using Modern Android development with the most power and recent techniques like (compose, coroutines , flow, hilt, live data, navigation, work manager, data store, ktor, retrofit etc...) and I'm using Solid principles, design pattern, clean-architecture and clean code to make robust code.
 
 - 📫 You can reach me on: https://www.linkedin.com/in/al-hussein96/
 
